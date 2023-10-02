@@ -39,44 +39,44 @@ This project is developed using MSSQL and utilizes a code-first approach with En
 ![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/defaultmain.png?raw=true)
 
 #### Destination Details
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/destination.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/destination.png?raw=true)
 
 ## Admin Dashboard
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/dashboard.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/dashboard.png?raw=true)
 
 ## Visitor Api
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/api.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/api.png?raw=true)
 
 ## Excel Reports
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/excel.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/excel.png?raw=true)
 
 ## Rapid Api
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/rapidapi.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/rapidapi.png?raw=true)
 
 ## Mail
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/mail.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/mail.png?raw=true)
 
 ## Login
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/img0.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/img0.png?raw=true)
 
 ## Reservation
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/reservation.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/reservation.png?raw=true)
 
 ## Error Page
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/error.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/error.png?raw=true)
 
 ## Language Support
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/language.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/language.png?raw=true)
 
 ## Cities Search
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/citiesSearch.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/citiesSearch.png?raw=true)
 
 
 
 ## Forget / Reset Password
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/forget.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/forget.png?raw=true)
 
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/reset.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/reset.png?raw=true)
 
 
 
