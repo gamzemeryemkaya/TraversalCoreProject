@@ -36,7 +36,7 @@ This project is developed using MSSQL and utilizes a code-first approach with En
 ## Project Screenshots
 
 ### Default(Main) Panel
-![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/defaultmain.png?raw=true)
+![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCoreProject/blob/main/TraversalCoreProject/p_images/defaultmain.png?raw=true)
 
 #### Destination Details
 ![App-Screenshots](https://github.com/gamzemeryemkaya/TraversalCore/blob/main/TraversalCoreProject/p_images/destination.png?raw=true)
